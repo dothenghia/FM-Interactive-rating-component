@@ -44,14 +44,17 @@ In Mobile version
 ### 1.3/ Links
 
 - Solution URL: https://github.com/dothenghia/FM-Interactive-rating-component
-- Live Site URL: 
+
+- Live Site URL: https://dothenghia.github.io/FM-Interactive-rating-component/
 
 ## 2/ My process
 
 ### 2.1/ Built with
 
 - HTML & CSS
+
 - JavaScript
+
 - ***ReactJS***
 
 
