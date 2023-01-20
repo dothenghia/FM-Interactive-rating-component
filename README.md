@@ -35,35 +35,16 @@ In Desktop and Tablet version
 
 In Mobile version
 
-<p> <img align="left" width="48%" src="https://user-images.githubusercontent.com/63101932/213664637-4e0d2911-16cd-47df-bbdf-e8e03c2a49ee.png"> 
-<img align="right" width="48%" src="https://user-images.githubusercontent.com/63101932/213664492-2563525b-3f8b-4458-9c58-15a45c6417ed.png"> 
-</p>
+![Mobile Active state](https://user-images.githubusercontent.com/63101932/213664637-4e0d2911-16cd-47df-bbdf-e8e03c2a49ee.png)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+![Mobile Submitted state](https://user-images.githubusercontent.com/63101932/213664492-2563525b-3f8b-4458-9c58-15a45c6417ed.png)
+
+
 
 ### 1.3/ Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/dothenghia/FM-Interactive-rating-component
+- Live Site URL: 
 
 ## 2/ My process
 
@@ -81,7 +62,8 @@ In Mobile version
 
 ## 3/ Author
 
-- My GitHub - [dothenghia](https://github.com/dothenghia)
+- Do The Nghia
+- GitHub - [dothenghia](https://github.com/dothenghia)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - HackerRank - [@nghiask2018](https://www.hackerrank.com/nghiask2018)
 
