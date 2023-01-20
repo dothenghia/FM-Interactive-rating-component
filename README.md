@@ -67,7 +67,7 @@ In Mobile version
 
 - Do The Nghia
 - GitHub - [dothenghia](https://github.com/dothenghia)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [dothenghia](https://www.frontendmentor.io/profile/dothenghia)
 - HackerRank - [@nghiask2018](https://www.hackerrank.com/nghiask2018)
 
 
